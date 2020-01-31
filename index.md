@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Adam's CIS277 Final App Webpage!
+
+Description : This is an app that Adam J Bougher has made for his final in his CIS 277 Course!
+
+Target Audience : Persons Ages 18-30 WIth any time they must kill
 
 You can use the [editor on GitHub](https://github.com/Adamsauce/mycis277finalapp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
