@@ -1,37 +1,13 @@
-## Adam's CIS277 Final App Webpage!
+## Adams Handy Helper : A D&D App for Players and DM's
 
-Description : This is an app that Adam J Bougher has made for his final in his CIS 277 Course!
-
-Target Audience : Persons Ages 18-30 WIth any time they must kill
+Description : Adams Handy Helper is a D&D(dungeons and dragons) Helper app that aims to lighten to load of both players and DM's\nWIth this app you can do such things as 
 
 You can use the [editor on GitHub](https://github.com/Adamsauce/mycis277finalapp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Roll dice!
+## Track initiatve
+### Generate names!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+and so much more!
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adamsauce/mycis277finalapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
